@@ -142,7 +142,7 @@ Device Geometry
 The OSWEC was selected because its design is fundamentally different from the RM3. This is critical because WECs span an extensive design space, and it is important to model devices in WEC-Sim that operate under different principles.  The OSWEC is fixed to the ground and has a flap that is connected through a hinge to the base that restricts the flap in order to pitch about the hinge.
 The full-scale dimensions and mass properties of the OSWEC are shown below.
 
-.. figure:: /_static/images/OSWEC_Geom.png
+.. figure:: /_static/images/OSWEC_tut_geom.png
    :width: 300pt
    :align: center
 
